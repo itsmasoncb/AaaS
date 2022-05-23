@@ -1,4 +1,4 @@
-# AaaS - Adages as a Service
+# AaaS - Adages as a Service v1.0
 
 # Project Goals
 # Display a start message/greeting.
